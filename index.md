@@ -36,6 +36,8 @@ schemadotorg:
 
 - binder link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/statOmics/dockerTest2/master?urlpath=rstudio)
 
+- [analysis](pages/01-intro.html)
+
 ---
 
 The source for this course webpage is [in github](https://github.com/statOmics/dockerTest2).
