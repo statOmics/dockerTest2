@@ -1,1 +1,5 @@
-docker example 
+docker example
+
+link to binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/statOmics/dockerTest2/master)
